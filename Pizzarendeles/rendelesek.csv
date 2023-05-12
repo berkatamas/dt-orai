@@ -1,0 +1,101 @@
+id;pizzaid;Típus;ár;darab;cim
+0;24;Elvis;3150;1;Madách Imre utca
+1;95;Szalámis;2850;1;Madách Imre utca
+2;99;Texas;3150;1;Kinga utca
+3;99;Texas;3150;1;Madách Imre utca
+4;83;Sonkás-csirkés;2850;1;Sáros utca
+5;19;El Bandi;2850;1;Madách Imre utca
+6;112;Vezúv;2850;3;Madách Imre utca
+7;81;Roberto;2850;2;Aradi utca
+8;39;Gyros;3150;2;Somfa utca
+9;65;Margherita;2590;1;Madách Imre utca
+10;71;Nagy fehér;2850;3;Madách Imre utca
+11;114;Vezúv;2850;1;Madách Imre utca
+12;43;Iron;2950;1;Madách Imre utca
+13;22;Elvis;3150;2;Madách Imre utca
+14;15;Bolognai;2850;1;Taksony utca
+15;64;Margherita;2590;1;Taksony utca
+16;53;Kinder;2950;1;Madách Imre utca
+17;79;Roberto;2850;2;Madách Imre utca
+18;35;Gringo’s;2850;2;Arany János utca
+19;104;Tonhalas;3150;3;Madách Imre utca
+20;72;Nagy fehér;2850;2;Madách Imre utca
+21;114;Vezúv;2850;1;Madách Imre utca
+22;94;Szalámis;2850;2;Madách Imre utca
+23;87;Sonkás-gombás;2590;1;Vadalma utca
+24;21;El Bandi;2850;1;Zsilip sor
+25;83;Sonkás-csirkés;2850;3;Madách Imre utca
+26;81;Roberto;2850;1;Majoros utca
+27;2;4 sajtos;2850;2;Kézmûves utca
+28;80;Roberto;2850;1;Kézmûves utca
+29;89;Sonkás-sajtos;2590;1;Madách Imre utca
+30;41;Hawaii;2850;1;Madách Imre utca
+31;73;Nebulo;2850;3;Madách Imre utca
+32;52;Kinder;2950;3;Madách Imre utca
+33;60;Légionárius;2950;2;Madách Imre utca
+34;109;Vegetáriánus;2590;2;Madách Imre utca
+35;10;Bitang;2950;1;Madách Imre utca
+36;94;Szalámis;2850;1;Madách Imre utca
+37;1;4 sajtos;2850;1;Csordahegy köz
+38;2;4 sajtos;2850;3;Madách Imre utca
+39;4;Baconös;2950;3;Clark Ádám utca
+40;7;Big Boss;2850;1;Madách Imre utca
+41;82;Sonkás-csirkés;2850;1;Szeptember 6. tér
+42;110;Vegetáriánus;2590;1;Madách Imre utca
+43;71;Nagy fehér;2850;1;Madách Imre utca
+44;82;Sonkás-csirkés;2850;1;Madách Imre utca
+45;99;Texas;3150;1;Madách Imre utca
+46;73;Nebulo;2850;1;Orsolya utca
+47;29;Fogadósné;3150;2;Madách Imre utca
+48;78;Ragadozó;2850;3;Madách Imre utca
+49;98;Texas;3150;2;Tímea utca
+50;88;Sonkás-sajtos;2590;4;Madách Imre utca
+51;89;Sonkás-sajtos;2590;1;Madách Imre utca
+52;48;Jalapeno;2950;3;Madách Imre utca
+53;7;Big Boss;2850;1;Madách Imre utca
+54;87;Sonkás-gombás;2590;1;Árpád utca
+55;74;Nebulo;2850;1;Madách Imre utca
+56;109;Vegetáriánus;2590;2;Madách Imre utca
+57;77;Ragadozó;2850;1;Napfény utca
+58;48;Jalapeno;2950;1;Kiss János altábornagy utca
+59;73;Nebulo;2850;1;Madách Imre utca
+60;29;Fogadósné;3150;1;Szigliget utca
+61;117;Wellness;2950;1;Madách Imre utca
+62;88;Sonkás-sajtos;2590;1;Madách Imre utca
+63;1;4 sajtos;2850;2;Madách Imre utca
+64;74;Nebulo;2850;1;Madách Imre utca
+65;79;Roberto;2850;1;Béke utca
+66;89;Sonkás-sajtos;2590;2;Madách Imre utca
+67;51;Jocee;2950;1;Madách Imre utca
+68;49;Jocee;2950;4;Madách Imre utca
+69;63;Magyaros;2850;2;Madách Imre utca
+70;50;Jocee;2950;1;Madách Imre utca
+71;67;Milano;2850;1;Madách Imre utca
+72;32;Füstös;2850;1;Madách Imre utca
+73;90;Sonkás-sajtos;2590;1;Arany János utca
+74;41;Hawaii;2850;1;Õrház utca
+75;18;Chee-pollo;2950;2;Templom utca
+76;116;Wellness;2950;2;Madách Imre utca
+77;15;Bolognai;2850;1;Madách Imre utca
+78;116;Wellness;2950;1;Madách Imre utca
+79;65;Margherita;2590;1;Madách Imre utca
+80;43;Iron;2950;2;Madách Imre utca
+81;66;Margherita;2590;1;Madách Imre utca
+82;69;Milano;2850;1;Madách Imre utca
+83;110;Vegetáriánus;2590;1;Madách Imre utca
+84;83;Sonkás-csirkés;2850;1;Erkel Ferenc utca
+85;39;Gyros;3150;2;Madách Imre utca
+86;22;Elvis;3150;1;Madách Imre utca
+87;36;Gringo’s;2850;1;Madách Imre utca
+88;73;Nebulo;2850;1;Rizling utca
+89;92;Spártai;2950;1;Jázmin utca
+90;110;Vegetáriánus;2590;1;Építõ utca
+91;8;Big Boss;2850;1;Madách Imre utca
+92;80;Roberto;2850;3;Madách Imre utca
+93;81;Roberto;2850;2;Madách Imre utca
+94;35;Gringo’s;2850;1;Szegfû utca
+95;89;Sonkás-sajtos;2590;2;Juhász Gyula utca
+96;111;Vegetáriánus;2590;1;Alsó utca
+97;34;Gringo’s;2850;3;Töreki uca
+98;105;Tonhalas;3150;3;Madách Imre utca
+99;38;Gyros;3150;1;Madách Imre utca
